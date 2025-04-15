@@ -10,8 +10,8 @@ Tested:
 ### TC_001: Verify Adding a New Todo Item
 - **Preconditions**: User is on TodoMVC page, Chrome browser.
 - **Steps**:
-  1. In the input field, type: "Buy milk".
-  2. Press Enter.
+1. In the input field, type: "Buy milk".
+2. Press Enter.
 - **Expected Result**: Todo "Buy milk" appears in the list, input clears, counter shows.
 - **Actual result**: Todo added, counter updated.
 - **Status**: Pass
